@@ -27,7 +27,7 @@ live reload : Live reload 는 코드 변경시 전체 응용 프로그램을 다
 
 <br/>
 
-### Disadvantages of of React Native
+### Disadvantages of React Native
 * native 언어 (kotlin & swift) 만큼의 퍼포먼스를 보여줄 수 없음
 * 크로스 플랫폼에 의지하게 됨으로 플랫폼 단에서 발생하는 에러들에 대응이 힘듬
 * object-c 언어 기반임으로 object-c 언어의 이해를 필요로할 수 있음
